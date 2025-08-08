@@ -1,2 +1,0 @@
-# Flasflick
-app.py
